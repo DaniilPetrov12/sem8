@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.AssemblyInfo.cs
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\учеба\Sem6\task044\bin\Debug\net7.0\task044.exe
+C:\Users\danii\Desktop\учеба\Sem6\task044\bin\Debug\net7.0\task044.deps.json
+C:\Users\danii\Desktop\учеба\Sem6\task044\bin\Debug\net7.0\task044.runtimeconfig.json
+C:\Users\danii\Desktop\учеба\Sem6\task044\bin\Debug\net7.0\task044.dll
+C:\Users\danii\Desktop\учеба\Sem6\task044\bin\Debug\net7.0\task044.pdb
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.dll
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\refint\task044.dll
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.pdb
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\task044.genruntimeconfig.cache
+C:\Users\danii\Desktop\учеба\Sem6\task044\obj\Debug\net7.0\ref\task044.dll
