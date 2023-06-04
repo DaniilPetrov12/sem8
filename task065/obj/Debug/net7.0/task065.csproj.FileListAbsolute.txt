@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.AssemblyInfo.cs
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\учеба\Sem6\task065\bin\Debug\net7.0\task065.exe
+C:\Users\danii\Desktop\учеба\Sem6\task065\bin\Debug\net7.0\task065.deps.json
+C:\Users\danii\Desktop\учеба\Sem6\task065\bin\Debug\net7.0\task065.runtimeconfig.json
+C:\Users\danii\Desktop\учеба\Sem6\task065\bin\Debug\net7.0\task065.dll
+C:\Users\danii\Desktop\учеба\Sem6\task065\bin\Debug\net7.0\task065.pdb
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.dll
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\refint\task065.dll
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.pdb
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\task065.genruntimeconfig.cache
+C:\Users\danii\Desktop\учеба\Sem6\task065\obj\Debug\net7.0\ref\task065.dll
